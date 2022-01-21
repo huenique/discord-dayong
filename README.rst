@@ -5,10 +5,10 @@ discord.py
    :target: https://discord.gg/r3sSKJJ
    :alt: Discord server invite
 .. image:: https://img.shields.io/pypi/v/discord.py.svg
-   :target: https://pypi.python.org/pypi/discord-hju
+   :target: https://pypi.python.org/pypi/discord-dayong
    :alt: PyPI version info
 .. image:: https://img.shields.io/pypi/pyversions/discord.py.svg
-   :target: https://pypi.python.org/pypi/discord-hju
+   :target: https://pypi.python.org/pypi/discord-dayong
    :alt: PyPI supported Python versions
 
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.

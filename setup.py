@@ -54,12 +54,12 @@ packages = [
     'discord.ext.tasks',
 ]
 
-setup(name='discord-hju',
+setup(name='discord-dayong',
       author='Rapptz',
-      url='https://github.com/huenique/discord-hju',
+      url='https://github.com/huenique/discord-dayong',
       project_urls={
         "Documentation": "https://discordpy.readthedocs.io/en/latest/",
-        "Issue tracker": "https://github.com/huenique/discord-hju/issues",
+        "Issue tracker": "https://github.com/huenique/discord-dayong/issues",
       },
       version=version,
       packages=packages,
